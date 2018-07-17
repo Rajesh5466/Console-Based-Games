@@ -1,2 +1,2 @@
 # Console-Based-Games
-C15Puzzle
+C15Puzzle Game, Othello Game 
