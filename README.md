@@ -19,7 +19,7 @@
   <li>"Two tiles can be merged only if they are Adjacent Fibonacci numbers"</li>
   <li>User can Play either 2x2 or 4x4 puzzle.</li>
   <li>𝐔𝐬𝐞𝐫 𝐜𝐚𝐧 𝐏𝐚𝐮𝐬𝐞 𝐭𝐡𝐞 𝐆𝐚𝐦𝐞 𝐚𝐧𝐝 𝐜𝐚𝐧 𝐩𝐥𝐚𝐲 𝐢𝐭 𝐚𝐧𝐲 𝐭𝐢𝐦𝐞 𝐡𝐞/𝐬𝐡𝐞 𝐧𝐞𝐞𝐝𝐞𝐝.</li>
-  <li>Leaderboard is maintained as Shown:</li>
-  <li>𝐑𝐚𝐧𝐤----𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞-----𝐦𝐨𝐯𝐞𝐬-----𝐒𝐭𝐚𝐭𝐮𝐬</li>
+  <li>Leaderboard is maintained as Shown:<br/>
+  𝐑𝐚𝐧𝐤----𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞-----𝐦𝐨𝐯𝐞𝐬-----𝐒𝐭𝐚𝐭𝐮𝐬</li>
   </ol>
     
